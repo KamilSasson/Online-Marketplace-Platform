@@ -6,6 +6,7 @@ inspired by platforms like Amazon and AliExpress. It enables sellers to list pro
 and provides tools for managing inventory and orders.
 
 Features
+
 1.User Roles:
  * Buyers can browse products, manage a shopping cart, and place orders.
  * Sellers can add products and manage their inventory.
