@@ -1,9 +1,10 @@
 E-commerce Marketplace System
 
 Overview
-  This project is a collaborative effort developed as part of our studies,   aiming to create an E-commerce Marketplace System.
-  inspired by platforms like Amazon and AliExpress. It enables sellers to   list products, buyers to purchase them, 
-  and provides tools for managing inventory and orders.
+
+This project is a collaborative effort developed as part of our studies,   aiming to create an E-commerce Marketplace System.
+inspired by platforms like Amazon and AliExpress. It enables sellers to   list products, buyers to purchase them, 
+and provides tools for managing inventory and orders.
 
 Features
 
